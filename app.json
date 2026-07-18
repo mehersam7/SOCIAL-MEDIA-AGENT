@@ -1,0 +1,31 @@
+{
+  "name": "VibeLens-AI",
+  "description": "AI-powered social media agent for trend analysis, sentiment tracking, content generation, and engagement optimization.",
+  "keywords": [
+    "AI",
+    "Social Media",
+    "IBM Watson Orchestrate",
+    "IBM Granite",
+    "Analytics",
+    "Sentiment Analysis",
+    "Agentic AI"
+  ],
+  "website": "https://github.com/yourusername/vibelens-ai",
+  "repository": "https://github.com/yourusername/vibelens-ai",
+  "logo": "https://raw.githubusercontent.com/github/explore/main/topics/artificial-intelligence/artificial-intelligence.png",
+  "success_url": "/",
+  "env": {
+    "APP_NAME": {
+      "description": "Application Name",
+      "value": "VibeLens AI"
+    },
+    "IBM_REGION": {
+      "description": "IBM Cloud Region",
+      "value": "au-syd"
+    },
+    "GRANITE_MODEL": {
+      "description": "IBM Granite Model",
+      "value": "granite-4.0-8b-instruct"
+    }
+  }
+}
